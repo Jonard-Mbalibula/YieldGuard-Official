@@ -73,11 +73,11 @@ official-yield-guard/
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/MfrankUg/official-yield-guard.git
+   git clone https://github.com/Jonard-Mbalibula/YieldGuard-Official.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd official-yield-guard
+   cd YieldGuard-Official
    ```
 3. Install dependencies:
    ```bash
